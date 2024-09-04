@@ -5,7 +5,7 @@ aiofile
 asyncurban
 async_generator
 bitlyshortener
-beautifulsoup4>=4.8.1bs4
+beautifulsoup4>=4.8.1
 base
 cffi>=1.0.0
 covid>=2.2.9
